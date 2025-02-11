@@ -29,6 +29,4 @@ public class AlertsDemo {
         alert2.dismiss();
     }
 
-
-
 }
